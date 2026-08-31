@@ -1,0 +1,80 @@
+[
+{
+"name": "Guidepoint",
+"tag": "New York",
+"logo": "assets/logos/guidepoint.png",
+"h": 54
+},
+{
+"name": "GLG Insights",
+"tag": "New York",
+"logo": "assets/logos/glg.png",
+"h": 76
+},
+{
+"name": "AlphaSights",
+"tag": "London",
+"logo": "assets/logos/alphasights.png",
+"h": 62
+},
+{
+"name": "Insight Alpha",
+"tag": "New Delhi",
+"logo": "assets/logos/insight-alpha.png",
+"h": 30
+},
+{
+"name": "ProSapient",
+"tag": "London",
+"logo": "assets/logos/prosapient.png",
+"h": 72
+},
+{
+"name": "Tegus by AlphaSense",
+"tag": "Chicago",
+"logo": "assets/logos/tegus.png",
+"h": 46
+},
+{
+"name": "Atheneum",
+"tag": "Berlin",
+"logo": "assets/logos/atheneum.png",
+"h": 48
+},
+{
+"name": "Arbolus",
+"tag": "London",
+"logo": "assets/logos/arbolus.png",
+"h": 40
+},
+{
+"name": "Infollion",
+"tag": "Gurugram",
+"logo": "assets/logos/infollion.png",
+"h": 50
+},
+{
+"name": "Third Bridge",
+"tag": "London",
+"logo": "assets/logos/third-bridge.png",
+"h": 28
+},
+{
+"name": "Ridgetop Research",
+"tag": "New York",
+"logo": "assets/logos/ridgetop.png",
+"h": 46
+},
+{
+"name": "Dialectica",
+"tag": "Athens",
+"logo": "assets/logos/dialectica.png",
+"h": 58
+},
+{
+"name": "Office Hours",
+"tag": "San Francisco",
+"logo": "assets/logos/officehours.png",
+"h": 62
+}
+]
