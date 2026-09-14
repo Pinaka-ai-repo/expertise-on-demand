@@ -14,7 +14,7 @@ EMAIL = "information.adept@gmail.com"
 PHONE_E164 = "+919740556805"
 PHONE_DISP = "+91 97405 56805"
 LINKEDIN = "https://www.linkedin.com/in/mohit-sharma-acma-cgma-25764411/"
-SITE_URL = "https://pinaka-ai-repo.github.io/expertise-on-demand/"
+SITE_URL = "https://www.tonysharma.com/"
 
 e = lambda s: html.escape(s, quote=True)
 

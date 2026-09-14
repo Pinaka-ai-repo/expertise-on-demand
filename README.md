@@ -1,10 +1,10 @@
 # Expertise on Demand
 
-Source for **[pinaka-ai-repo.github.io/expertise-on-demand](https://pinaka-ai-repo.github.io/expertise-on-demand/)** —
+Source for **[www.tonysharma.com](https://www.tonysharma.com/)** —
 the expert-network advisor profile for Mohit Sharma (ACMA, CGMA).
 
-Static site, no build toolchain, no dependencies at runtime. GitHub Pages serves
-`index.html` from `main` at the repository root.
+Static site, no build toolchain, no dependencies at runtime. GitHub Pages serves it on the custom domain in `CNAME`,
+building from `main` at the repository root.
 
 ## Layout
 
