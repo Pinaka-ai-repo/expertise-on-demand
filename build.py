@@ -435,7 +435,7 @@ JSONLD = json.dumps({
     "description": DESC, "url": SITE_URL,
     "image": SITE_URL + "assets/headshot.webp",
     "email": f"mailto:{EMAIL}", "telephone": PHONE_E164,
-    "address": {"@type": "PostalAddress", "addressLocality": "Bengaluru", "addressCountry": "IN"},
+    "address": {"@type": "PostalAddress", "addressLocality": "Dubai", "addressCountry": "AE"},
     "sameAs": [LINKEDIN],
     "knowsAbout": [g[0] for g in GROUPS],
     "alumniOf": [{"@type": "Organization", "name": n} for n in
@@ -581,7 +581,7 @@ HTML = f"""<!doctype html>
       <div>
         <h2 class="contact-h">Have a project that fits? Let's talk.</h2>
         <p class="contact-p">Coordinators and recruiters — send the brief and I'll confirm fit
-          the same day. I'm based in India (IST) and regularly take calls across US and
+          the same day. I am based out of Dubai (GST) and regularly take calls across US and
           European hours.</p>
         <a class="btn btn-inv btn-lg" href="{BOOKING}" target="_blank" rel="noopener"
            style="margin-top:var(--s4)">Book a 30-minute slot{icon(IC["north"], 16, "1.9")}</a>
@@ -595,7 +595,7 @@ HTML = f"""<!doctype html>
 <footer class="ft">
   <div class="wrap ft-in">
     <span class="ft-name">Mohit Sharma · ACMA, CGMA</span>
-    <span class="ft-meta lbl">Expert network advisor · Bengaluru, India</span>
+    <span class="ft-meta lbl">Expert network advisor · Dubai, UAE</span>
   </div>
 </footer>
 
